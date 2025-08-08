@@ -1,0 +1,71 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+header {
+  background-color: #900C3F;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  max-width: 100px;
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+nav {
+  background-color: #C70039;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1rem;
+}
+
+nav a {
+  display: block;
+  padding: 1rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.episodes, .connect {
+  list-style: none;
+  padding: 0;
+}
+
+.episodes li, .connect li {
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  background-color: #581845;
+  text-align: center;
+  padding: 1rem;
+}
