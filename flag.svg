@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="360" height="240">
+  <title>Canadian Flag</title>
+  <rect width="120" height="80" fill="#fff"/>
+  <rect width="30" height="80" fill="#d62828"/>
+  <rect x="90" width="30" height="80" fill="#d62828"/>
+  <path d="M60 12 L66 30 L84 30 L70 40 L76 58 L60 46 L44 58 L50 40 L36 30 L54 30 Z" fill="#d62828"/>
+</svg>
