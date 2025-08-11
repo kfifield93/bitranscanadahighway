@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="240" height="240">
-  <title>RCMP Badge</title>
-  <circle cx="60" cy="60" r="44" fill="#fff3e0" stroke="#b5651d" stroke-width="4"/>
-  <path d="M60 22 L72 54 L98 54 L78 70 L86 98 L60 80 L34 98 L42 70 L22 54 L48 54 Z" fill="#d62828"/>
-  <circle cx="60" cy="60" r="8" fill="#fff"/>
-</svg>
